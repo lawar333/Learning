@@ -1,5 +1,5 @@
 # Learning
- <h1>12 Daily Ways to Better Life</h1>
+ <h1>12 Daily Habits to Better Your Life</h1>
           <h2>That You Might Not Know!</h2>
         <p>I'm considered an Xennial...slapped right between the Gen X'ers and the Millenials. My childhood didn't really involve technology, but my early 20's did. I was the child who was typing my sister's book reports because I could type so fast. I was the student who did all of my classmates assignments in CS class because we couldn't talk until they were done, and they were slow as molassas.</p>
         <p>Going from a non-tech world to a tech world gave me a world of advantages. I can related to those that struggle with technology, becuase I grew up hearing how computers were just a fad and would never last. I can relate to those that can never unplug from their phone, because well, it's just plain addictive. I'd rather read a book or play outside than watch tv.</p>
